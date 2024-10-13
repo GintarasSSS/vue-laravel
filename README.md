@@ -9,7 +9,8 @@
 
 ## Project setup
 
-* ``composer create-project laravel/laravel vue-laravel`` 
+* ``composer create-project laravel/laravel vue-laravel``
+* ``php artisan sail:install``
 * ``./vendor/bin/sail up -d``
 * ``./vendor/bin/sail artisan migrate``
 * ``./vendor/bin/sail npm i vue@3``
